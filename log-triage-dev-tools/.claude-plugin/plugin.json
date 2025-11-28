@@ -1,8 +1,8 @@
 {
   "name": "log-triage-dev-tools",
   "description": "Commands, subagents, and testing Skill for the log-triage-service Node.js project.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
-    "name": "YOUR NAME"
+    "name": "cdanescu"
   }
 }

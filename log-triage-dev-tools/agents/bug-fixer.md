@@ -16,7 +16,7 @@ Workflow:
    - Root cause in simple terms.
    - Minimal code change you will make.
 5. Implement the smallest safe fix.
-6. Run tests (`npm test` or /project:build_and_test).
+6. Run tests /project:build_and_test.
 7. Summarize:
    - Files changed
    - What was broken

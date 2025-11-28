@@ -22,7 +22,7 @@ When invoked:
 1. Inspect existing tests in `tests/`.
 2. Propose a short plan listing the test cases you will add or modify.
 3. Implement tests incrementally, keeping them small and readable.
-4. Use `npm test` (or the /project:build_and_test command) to validate changes.
+4. Use /project:build_and_test command to validate changes.
 5. Summarize:
    - Files changed
    - Behaviors covered
