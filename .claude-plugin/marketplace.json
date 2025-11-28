@@ -1,0 +1,13 @@
+{
+  "name": "log-triage-dev-marketplace",
+  "owner": {
+    "name": "cdanescu"
+  },
+  "plugins": [
+    {
+      "name": "log-triage-dev-tools",
+      "source": "./log-triage-dev-tools",
+      "description": "Testing helpers and dev tools for log-triage-service."
+    }
+  ]
+}
