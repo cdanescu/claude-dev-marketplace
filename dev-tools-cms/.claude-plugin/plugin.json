@@ -1,7 +1,7 @@
 {
   "name": "dev-tools-cms",
   "description": "Development tools and commands for CMS projects.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "cdanescu"
   }
