@@ -8,6 +8,11 @@
       "name": "log-triage-dev-tools",
       "source": "./log-triage-dev-tools",
       "description": "Testing helpers and dev tools for log-triage-service."
+    },
+    {
+      "name": "dev-tools-cms",
+      "source": "./dev-tools-cms",
+      "description": "Development tools and commands for CMS projects."
     }
   ]
 }
