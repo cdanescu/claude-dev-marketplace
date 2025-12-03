@@ -18,7 +18,7 @@ When running without arguments, the script will:
 
 The agent should:
 1. Navigate to the current project directory
-2. Locate the script in the dev-tools-cms plugin installation (typically in ~/.claude/plugins/dev-tools-cms/scripts/run-phpunit-coverage.sh)
+2. Locate the script in the dev-tools-cms plugin installation (typically in ~/.claude/plugins/marketplaces/claude-dev-marketplace/dev-tools-cms/scripts/run-phpunit-coverage.sh)
 3. Execute the script with any provided arguments
 4. Monitor the output and report progress (may take 10+ minutes for full suite)
 5. Report final results including coverage location when complete
